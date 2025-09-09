@@ -1,10 +1,10 @@
 export const metadata = { title: "Listings — Suncoast" };
 export default function Listings(){
   const items = [
-    {img:"https://images.unsplash.com/photo-1564013799919-ab600027ffc6", title:"Sunny Isles Townhome", price:"$589,000", beds:"3", baths:"2.5", desc:"Garage • updated kitchen • low HOA"},
-    {img:"https://images.unsplash.com/photo-1507089947368-19c1da9775ae", title:"Boca Raton Pool Home", price:"$729,000", beds:"4", baths:"3", desc:"Fenced yard • new roof • A-rated schools"},
+    {img:"https://images.unsplash.com/photo-1564013799919-ab600027ffc6", title:"Sunny Isles Townhome", price:"$2,327,503", beds:"3", baths:"2.5", desc:"Garage • updated kitchen • low HOA"},
+    {img:"https://images.unsplash.com/photo-1507089947368-19c1da9775ae", title:"Boca Raton Pool Home", price:"$7,920,040", beds:"4", baths:"3", desc:"Fenced yard • new roof • A-rated schools"},
     {img:"https://images.unsplash.com/photo-1515263487990-61b07816b324", title:"Fort Lauderdale New Build", price:"$645,000", beds:"3", baths:"2", desc:"Builder credits • 2-1 buydown eligible"},
-    {img:"https://images.unsplash.com/photo-1523217582562-09d0def993a6", title:"Delray Beach Condo", price:"$349,000", beds:"2", baths:"2", desc:"FHA-friendly • walk to Atlantic Ave"}
+    {img:"https://images.unsplash.com/photo-1523217582562-09d0def993a6", title:"Delray Beach Condo", price:"$950,420", beds:"2", baths:"2", desc:"FHA-friendly • walk to Atlantic Ave"}
   ];
   return (
     <main className="section">

@@ -6,7 +6,7 @@ export default function Home(){
       <section className="hero">
         <div className="container" style={{padding:"60px 0"}}>
           <div className="badge">Low down options • Builder credits • Same-day tours</div>
-          <h1 className="h1" style={{marginTop:12}}>Daily list of South Florida homes under $750,000</h1>
+          <h1 className="h1" style={{marginTop:12}}>Daily list of South Florida homes under $50,000,000</h1>
           <p className="lead" style={{maxWidth:760}}>Tell us your budget, ZIPs, and must-haves. We’ll email curated homes and text you quickly if something perfect hits the market.</p>
           <div className="grid grid-2" style={{marginTop:28}}>
             <div className="card" style={{padding:16}}>
